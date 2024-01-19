@@ -29,3 +29,5 @@ The ARC dataset consists of **7,787 science exam questions** drawn from a variet
 **multiple choice structure** (typically 4 answer options). 
 
 The questions are sorted into a Challenge Set of 2,590 “hard” questions (those that both a retrieval and a co-occurrence method fail to answer correctly) and an Easy Set of 5,197 questions.
+
+Official website: [https://allenai.org/data/arc](https://allenai.org/data/arc)
